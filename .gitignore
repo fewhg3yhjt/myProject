@@ -1,0 +1,24 @@
+# 编译输出目录
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+*.egg-info/
+dist/
+build/
+
+# 虚拟环境
+venv/
+.virtualenv/
+
+# 测试报告
+coverage.xml
+.nox/
+
+# 缓存
+*.swp
+*.swo
+*.swn
+*.bak
+*.tmp
